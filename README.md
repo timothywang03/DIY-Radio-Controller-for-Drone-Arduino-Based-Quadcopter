@@ -1,4 +1,4 @@
-# Drone-Transmitter-and-receiver
+# DIY Radio Controller for Drone Arduino Based Quadcopter | Joystick remote | nRF24L01
 
 
 ![alt text](https://github.com/akarsh98/DIY-Radio-Controller-for-Drone-Arduino-Based-Quadcopter/blob/main/Images/Drine%20Receiver.jpg)
